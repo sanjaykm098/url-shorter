@@ -1,0 +1,17 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "test",
+  "type": "module",
+  "main": "main",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "sanjay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.0",
+    "nanoid": "^5.0.8"
+  }
+}
